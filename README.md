@@ -1,8 +1,8 @@
 # AmiESP
-ESP8266 Virtual Modem — Fork do projeto original ESP_MODEM de Jussi Salin. Um firmware para ESP8266 que transforma o microcontrolador em um modem AT virtual via Wi-Fi, permitindo conexão TCP/Telnet e configuração com comandos AT clássicos.
+AmiESP - ESP8266 Virtual Modem — Fork do projeto original ESP_MODEM de Jussi Salin. Um firmware para ESP8266 que transforma o microcontrolador em um modem AT virtual via Wi-Fi, permitindo conexão TCP/Telnet e configuração com comandos AT clássicos.
 
 
-# 🛰️ ESP8266 Virtual Modem (ESP_MODEM)
+# 🛰️ AmiESP - ESP8266 Virtual Modem (ESP_MODEM)
 
 Projeto de modem virtual para **ESP8266**, desenvolvido por **Marcio Esper (aka ice2642)** com base no projeto original **ESP_MODEM** criado por **Jussi Salin** (<salinjus@gmail.com>).
 
