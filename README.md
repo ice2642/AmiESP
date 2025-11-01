@@ -76,6 +76,8 @@ OK
 ATIP
 IP: 192.168.0.105
 
+ATSAVE salva o sid e passwd da entrada ATWIFI ou ATWIFINUM na EEPROM
+
 ⚙️ Configurações padrão
 Parâmetro	Valor
 Baud rate	115200
